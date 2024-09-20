@@ -1,6 +1,6 @@
 # Project-Based Learning: AI Text Summarizer Web App
 
-![course thumbnail](public/images/learning.png)
+<img src="public/images/learning.png" alt="course thumbnail" width="400"/>
 
 ## Skills Development
 
