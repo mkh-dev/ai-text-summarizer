@@ -22,3 +22,14 @@
 - Build and deploy a full-stack app on Replit / GitHub CodeSpaces using HTML/CSS/JavaScript and Node.js
 - Explore real-world APIs with Postman, including the Hugging Face Inference API for summarizing text with AI
 - Use Postman to generate code and integrate APIs into an application
+
+## Structure of the app
+
+  Our app will have a client side (website), server side, and external API integration to Hugging Face.
+
+![course thumbnail](https://content.pstmn.io/3c537b22-4dbc-4fff-9e72-5a5c77050b66/aW1hZ2UgKDQyKS5wbmc=)
+  
+
+## Project Link
+
+[AI Text Summarizer App on Replit](https://replit.com/@malekkhelil/AI-Text-Summarizer-App)
