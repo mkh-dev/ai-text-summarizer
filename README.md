@@ -1,7 +1,6 @@
 # Project-Based Learning: AI Text Summarizer Web App
 
-![course thumbmail](public/images/learning.png)
-
+![course thumbnail](public/images/learning.png)
 
 ## Skills Development
 
@@ -23,12 +22,31 @@
 - Explore real-world APIs with Postman, including the Hugging Face Inference API for summarizing text with AI
 - Use Postman to generate code and integrate APIs into an application
 
-## Structure of the app
+## Tech Stack
 
-  Our app will have a client side (website), server side, and external API integration to Hugging Face.
+These are the tools and technologies that we’ll be using to build our app!
+
+**API platform:**
+- Postman
+
+**Code Editor/Deployment tool:**
+- Replit
+
+**Back end:**
+- Node.js
+- Express
+- Hugging Face Inference API
+
+**Front end:**
+- HTML
+- CSS
+- JavaScript
+
+## Structure of the App
+
+Our app will have a client side (website), server side, and external API integration to Hugging Face.
 
 ![course thumbnail](https://content.pstmn.io/3c537b22-4dbc-4fff-9e72-5a5c77050b66/aW1hZ2UgKDQyKS5wbmc=)
-  
 
 ## Project Link
 
