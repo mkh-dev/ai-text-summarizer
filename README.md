@@ -11,8 +11,6 @@
 ## Benefits After Completion
 
 - Successful creation of a full-stack application for AI text summarization
-- A project to enhance your professional portfolio or résumé
-- Practical experience and skill development for a competitive edge in the tech industry job market
 - Deeper understanding of leveraging APIs by integrating AI functionalities
 - Proficiency in navigating Postman to explore real-world APIs and generate code for applications
 
