@@ -32,4 +32,4 @@
 
 ## Project Link
 
-[AI Text Summarizer App on Replit](https://replit.com/@malekkhelil/AI-Text-Summarizer-App)
+[AI Text Summarizer App on Replit ✨](https://9abcef6b-0ff5-47ac-a218-907254e62d26-00-4zxknx8b7kb.picard.replit.dev/)
